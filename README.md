@@ -12,7 +12,7 @@
 8.	Stop the program. 
 # PROGRAM
 ```
-#include<stdio.h>
+#include<stdio.h> 
 #include<conio.h> 
 #include<ctype.h> 
 #include<malloc.h> 
